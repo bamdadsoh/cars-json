@@ -70,7 +70,7 @@
     "horsepower": 670,
     "isAvailable": true,
     "productionDate": "2023-01-05T00:00:00Z",
-    "imageUrl": "https://example.com/images/tesla_model_s.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/bamdadsoh/cars-json/refs/heads/main/teslamodalS_1.png",
     "type": "sedan",
     "features": [
       "autopilot",
