@@ -49,7 +49,7 @@
     "horsepower": 443,
     "isAvailable": true,
     "productionDate": "2020-03-10T00:00:00Z",
-    "imageUrl": "https://example.com/images/porsche_911.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/bamdadsoh/cars-json/refs/heads/main/porshe911_1.png",
     "type": "coupe",
     "features": [
       "adaptive cruise control",
