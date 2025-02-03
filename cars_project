@@ -6,7 +6,7 @@
     "horsepower": 710,
     "isAvailable": true,
     "productionDate": "2022-05-15T00:00:00Z",
-    "imageUrl": "https://example.com/images/ferrari_f8.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/bamdadsoh/cars-json/refs/heads/main/aventador1.png",
     "type": "sportscar",
     "features": [
       "leather seats",
