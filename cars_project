@@ -196,7 +196,7 @@
     "horsepower": 565,
     "isAvailable": true,
     "productionDate": "2018-04-25T00:00:00Z",
-    "imageUrl": "https://example.com/images/nissan_gtr.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/bamdadsoh/cars-json/refs/heads/main/gtr.png",
     "type": "sportscar",
     "features": [
       "all-wheel drive",
