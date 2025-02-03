@@ -1,0 +1,213 @@
+[
+  {
+    "id": 1,
+    "name": "Ferrari F8",
+    "description": "Een krachtige sportwagen met een robuuste motor en geavanceerde aerodynamica, ontworpen voor ultieme prestaties op de racebaan.",
+    "horsepower": 710,
+    "isAvailable": true,
+    "productionDate": "2022-05-15T00:00:00Z",
+    "imageUrl": "https://example.com/images/ferrari_f8.jpg",
+    "type": "sportscar",
+    "features": [
+      "leather seats",
+      "GPS",
+      "Bluetooth",
+      "sport mode"
+    ],
+    "dealer": {
+      "id": 101,
+      "name": "Exclusive Motors",
+      "location": "Milan, Italy",
+      "rating": 4.8
+    }
+  },
+  {
+    "id": 2,
+    "name": "Lamborghini Aventador",
+    "description": "Een iconische supercar met een agressief design en ongeëvenaarde prestaties, perfect voor liefhebbers van snelheid en luxe.",
+    "horsepower": 759,
+    "isAvailable": false,
+    "productionDate": "2021-08-20T00:00:00Z",
+    "imageUrl": "https://example.com/images/lamborghini_aventador.jpg",
+    "type": "sportscar",
+    "features": [
+      "carbon fiber body",
+      "advanced traction control",
+      "premium audio system"
+    ],
+    "dealer": {
+      "id": 102,
+      "name": "Luxury Rides",
+      "location": "Dubai, UAE",
+      "rating": 4.7
+    }
+  },
+  {
+    "id": 3,
+    "name": "Porsche 911",
+    "description": "Een klassieke sportwagen die elegantie en prestaties combineert met moderne technologie en comfort.",
+    "horsepower": 443,
+    "isAvailable": true,
+    "productionDate": "2020-03-10T00:00:00Z",
+    "imageUrl": "https://example.com/images/porsche_911.jpg",
+    "type": "coupe",
+    "features": [
+      "adaptive cruise control",
+      "sport exhaust",
+      "digital cockpit"
+    ],
+    "dealer": {
+      "id": 103,
+      "name": "City Auto Gallery",
+      "location": "Stuttgart, Germany",
+      "rating": 4.5
+    }
+  },
+  {
+    "id": 4,
+    "name": "Tesla Model S",
+    "description": "Een innovatieve elektrische sedan met indrukwekkende acceleratie, lange actieradius en geavanceerde autopilot-functies.",
+    "horsepower": 670,
+    "isAvailable": true,
+    "productionDate": "2023-01-05T00:00:00Z",
+    "imageUrl": "https://example.com/images/tesla_model_s.jpg",
+    "type": "sedan",
+    "features": [
+      "autopilot",
+      "touchscreen interface",
+      "zero emissions"
+    ],
+    "dealer": {
+      "id": 104,
+      "name": "Electric Auto Hub",
+      "location": "Palo Alto, USA",
+      "rating": 4.9
+    }
+  },
+  {
+    "id": 5,
+    "name": "BMW M3",
+    "description": "Een sportieve sedan die dynamische prestaties combineert met een luxe interieur en de nieuwste technologische snufjes.",
+    "horsepower": 473,
+    "isAvailable": false,
+    "productionDate": "2019-07-22T00:00:00Z",
+    "imageUrl": "https://example.com/images/bmw_m3.jpg",
+    "type": "sedan",
+    "features": [
+      "sport suspension",
+      "navigation system",
+      "heated seats"
+    ],
+    "dealer": {
+      "id": 105,
+      "name": "Premium Cars",
+      "location": "Munich, Germany",
+      "rating": 4.6
+    }
+  },
+  {
+    "id": 6,
+    "name": "Audi R8",
+    "description": "Een indrukwekkende sportwagen met een middenmotorconfiguratie, geavanceerde vierwielaandrijving en een luxueus interieur.",
+    "horsepower": 602,
+    "isAvailable": true,
+    "productionDate": "2022-11-11T00:00:00Z",
+    "imageUrl": "https://example.com/images/audi_r8.jpg",
+    "type": "sportscar",
+    "features": [
+      "quattro all-wheel drive",
+      "virtual cockpit",
+      "LED headlights"
+    ],
+    "dealer": {
+      "id": 106,
+      "name": "High Performance Autos",
+      "location": "Ingolstadt, Germany",
+      "rating": 4.7
+    }
+  },
+  {
+    "id": 7,
+    "name": "Mercedes-AMG GT",
+    "description": "Een elegante en krachtige auto die zowel op de weg als op het circuit zijn stempel drukt met zijn verfijnde design en prestaties.",
+    "horsepower": 577,
+    "isAvailable": false,
+    "productionDate": "2020-12-30T00:00:00Z",
+    "imageUrl": "https://example.com/images/mercedes_amg_gt.jpg",
+    "type": "coupe",
+    "features": [
+      "AMG performance",
+      "sport exhaust system",
+      "luxury interior"
+    ],
+    "dealer": {
+      "id": 107,
+      "name": "Elite Motors",
+      "location": "Stuttgart, Germany",
+      "rating": 4.8
+    }
+  },
+  {
+    "id": 8,
+    "name": "Ford Mustang",
+    "description": "Een klassieke Amerikaanse muscle car met een iconisch design en krachtige prestaties, geliefd bij autoliefhebbers wereldwijd.",
+    "horsepower": 450,
+    "isAvailable": true,
+    "productionDate": "2021-06-14T00:00:00Z",
+    "imageUrl": "https://example.com/images/ford_mustang.jpg",
+    "type": "muscle",
+    "features": [
+      "V8 engine",
+      "retro design",
+      "manual transmission"
+    ],
+    "dealer": {
+      "id": 108,
+      "name": "American Classics",
+      "location": "Detroit, USA",
+      "rating": 4.4
+    }
+  },
+  {
+    "id": 9,
+    "name": "Chevrolet Camaro",
+    "description": "Een robuuste muscle car met een agressief design en high-performance motor, ideaal voor liefhebbers van pure kracht.",
+    "horsepower": 455,
+    "isAvailable": false,
+    "productionDate": "2022-09-17T00:00:00Z",
+    "imageUrl": "https://example.com/images/chevrolet_camaro.jpg",
+    "type": "muscle",
+    "features": [
+      "V8 power",
+      "sport exhaust",
+      "performance brakes"
+    ],
+    "dealer": {
+      "id": 109,
+      "name": "Speed & Style",
+      "location": "Los Angeles, USA",
+      "rating": 4.5
+    }
+  },
+  {
+    "id": 10,
+    "name": "Nissan GT-R",
+    "description": "Een high-tech sportwagen met baanbrekende technologie en uitzonderlijke prestaties, die elke autoliefhebber versteld doet staan.",
+    "horsepower": 565,
+    "isAvailable": true,
+    "productionDate": "2018-04-25T00:00:00Z",
+    "imageUrl": "https://example.com/images/nissan_gtr.jpg",
+    "type": "sportscar",
+    "features": [
+      "all-wheel drive",
+      "advanced telemetry",
+      "aerodynamic design"
+    ],
+    "dealer": {
+      "id": 110,
+      "name": "Performance Imports",
+      "location": "Tokyo, Japan",
+      "rating": 4.6
+    }
+  }
+]
