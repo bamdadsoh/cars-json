@@ -112,7 +112,7 @@
     "horsepower": 602,
     "isAvailable": true,
     "productionDate": "2022-11-11T00:00:00Z",
-    "imageUrl": "https://example.com/images/audi_r8.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/bamdadsoh/cars-json/refs/heads/main/audiR8_1.png",
     "type": "sportscar",
     "features": [
       "quattro all-wheel drive",
