@@ -175,7 +175,7 @@
     "horsepower": 455,
     "isAvailable": false,
     "productionDate": "2022-09-17T00:00:00Z",
-    "imageUrl": "https://example.com/images/chevrolet_camaro.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/bamdadsoh/cars-json/refs/heads/main/chevy_1.png",
     "type": "muscle",
     "features": [
       "V8 power",
