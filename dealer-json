@@ -1,0 +1,112 @@
+[
+  {
+    "id": 101,
+    "name": "Exclusive Motors",
+    "location": "Milan, Italy",
+    "rating": 4.8,
+    "contact": {
+      "email": "info@exclusivemotors.it",
+      "phone": "+39 02 1234 5678",
+      "website": "https://www.exclusivemotors.it"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Luxury Rides",
+    "location": "Dubai, UAE",
+    "rating": 4.7,
+    "contact": {
+      "email": "contact@luxuryrides.ae",
+      "phone": "+971 4 567 8900",
+      "website": "https://www.luxuryrides.ae"
+    }
+  },
+  {
+    "id": 103,
+    "name": "City Auto Gallery",
+    "location": "Stuttgart, Germany",
+    "rating": 4.5,
+    "contact": {
+      "email": "sales@cityautogallery.de",
+      "phone": "+49 711 9876 5432",
+      "website": "https://www.cityautogallery.de"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Electric Auto Hub",
+    "location": "Palo Alto, USA",
+    "rating": 4.9,
+    "contact": {
+      "email": "support@electricautohub.com",
+      "phone": "+1 650 321 4567",
+      "website": "https://www.electricautohub.com"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Premium Cars",
+    "location": "Munich, Germany",
+    "rating": 4.6,
+    "contact": {
+      "email": "info@premiumcars.de",
+      "phone": "+49 89 1234 5678",
+      "website": "https://www.premiumcars.de"
+    }
+  },
+  {
+    "id": 106,
+    "name": "High Performance Autos",
+    "location": "Ingolstadt, Germany",
+    "rating": 4.7,
+    "contact": {
+      "email": "sales@highperformanceautos.de",
+      "phone": "+49 841 7654 3210",
+      "website": "https://www.highperformanceautos.de"
+    }
+  },
+  {
+    "id": 107,
+    "name": "Elite Motors",
+    "location": "Stuttgart, Germany",
+    "rating": 4.8,
+    "contact": {
+      "email": "contact@elitemotors.de",
+      "phone": "+49 711 5678 4321",
+      "website": "https://www.elitemotors.de"
+    }
+  },
+  {
+    "id": 108,
+    "name": "American Classics",
+    "location": "Detroit, USA",
+    "rating": 4.4,
+    "contact": {
+      "email": "info@americanclassics.com",
+      "phone": "+1 313 654 7890",
+      "website": "https://www.americanclassics.com"
+    }
+  },
+  {
+    "id": 109,
+    "name": "Speed & Style",
+    "location": "Los Angeles, USA",
+    "rating": 4.5,
+    "contact": {
+      "email": "support@speedandstyle.com",
+      "phone": "+1 323 876 5432",
+      "website": "https://www.speedandstyle.com"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Performance Imports",
+    "location": "Tokyo, Japan",
+    "rating": 4.6,
+    "contact": {
+      "email": "info@performanceimports.jp",
+      "phone": "+81 3 9876 5432",
+      "website": "https://www.performanceimports.jp"
+    }
+  }
+]
